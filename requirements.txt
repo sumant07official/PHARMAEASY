@@ -1,0 +1,8 @@
+Flask
+mysql-connector-python
+pandas
+secure-smtplib
+py-emails
+scikit-learn
+seaborn
+pillow
